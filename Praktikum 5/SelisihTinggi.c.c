@@ -1,4 +1,4 @@
-//Nama File : SelisihKetinggian.c
+//Nama File : SelisihTinggi.c
 //Deskripsi : Menghitung dan menampilkan besarnya
 // selisih ketinggian terbesar puncak bukut dengan lembah bukit atau sebaiknya
 
