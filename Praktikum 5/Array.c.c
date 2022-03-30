@@ -1,4 +1,4 @@
-//Nama File : NBArray.c
+//Nama File : Array.c
 //Deskripsi : Menghitung dan menampilkan besarnya
 //penjumlahan sub array/tabel T.
 
